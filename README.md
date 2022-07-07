@@ -23,7 +23,7 @@ The script is not needed to just update (git pull) the new versions of **evil-wi
 
 ## Usage of the feature
 
-For using the Remote Path Completion feature you should type paths using the **"/"** character and not the **"\"** character.
+For using the Remote Path Completion feature you should type paths using the **"/"** character and not the **"\\"** character.
 
 ![Tux, the Linux mascot](/images/sample.gif)
 
