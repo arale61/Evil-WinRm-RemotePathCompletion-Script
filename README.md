@@ -31,7 +31,7 @@ For using the Remote Path Completion feature you should type paths using the **"
 
 ## The script steps
 
-The **script** will try to help you to:
+The **script** prompts your confirmation for realizing the following steps:    
 1. Remove the evil-winrm gem.
     - Make sure after removing the gems that no executable **evil-winrm** exists on **/usr/bin/evil-winrm** or **/bin/evil-winrm**.
 2. Install **[rbenv](https://github.com/rbenv/rbenv)** in case is not installed.
